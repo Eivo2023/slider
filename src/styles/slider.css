@@ -221,12 +221,12 @@ transition: all 400ms ease-in-out;
 
 .slider .slider__btn:hover {
     opacity: 1;
-    transform: scale(2); rotate: (180deg);
+    transform: scale(2) rotate(180deg);
 }
 
 
 .slider .slider__btn.slider__btn--next:hover {
-    transform: scale(2); rotate: (0);
+    transform: scale(2) rotate(0);
 }
 
 
